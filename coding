@@ -1,6 +1,6 @@
 /*
-* Palang Otomatis menggunakan Ultrasonic Transceiver dan Servo
-* Kelompok 2 TK-1A
+* Pintu Otomatis menggunakan Ultrasonic Transceiver dan Servo
+* Kelompok 3
 */
 
 #include <Servo.h>
